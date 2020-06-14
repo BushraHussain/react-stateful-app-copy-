@@ -1,0 +1,17 @@
+.Apple {
+  
+  background-image: url('lc500.jpg');
+  width: 50%;
+  height: 500px;
+  background-size: contain;
+  border-radius: 60%;
+  margin-left: auto;
+  margin-right: auto;
+
+ }
+ 
+ .Mango {
+ background-color: yellow;
+ 
+ }
+ 
